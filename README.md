@@ -1,14 +1,14 @@
 # Java Practice Repository
 
-1-Variables: https://github.com/Charan-gurram/JAVA/tree/main/1-Variables  
-2-Datatypes: https://github.com/Charan-gurram/JAVA/tree/main/2-Datatypes  
-3-Operators: https://github.com/Charan-gurram/JAVA/tree/main/3-Operators  
-4-conditional_statements: https://github.com/Charan-gurram/JAVA/tree/main/4-conditional_statements  
-5-switch-case: https://github.com/Charan-gurram/JAVA/tree/main/5-switch-case  
-6-Loops: https://github.com/Charan-gurram/JAVA/tree/main/6-Loops  
-7-Arrays: https://github.com/Charan-gurram/JAVA/tree/main/7-Arrays  
-8-Strings: https://github.com/Charan-gurram/JAVA/tree/main/8-Strings  
-9-class_obj: https://github.com/Charan-gurram/JAVA/tree/main/9-class_obj  
-10-Encapsulation: https://github.com/Charan-gurram/JAVA/tree/main/10-Encapsulation  
-11-Abstraction: https://github.com/Charan-gurram/JAVA/tree/main/11-Abstraction  
-Collections practice: https://github.com/Charan-gurram/JAVA/tree/main/Collections%20practice
+[1-Variables](1-Variables/): Variables practiced  
+[2-Datatypes](2-Datatypes/): Datatypes practiced  
+[3-Operators](3-Operators/): Operators practiced  
+[4-conditional_statements](4-conditional_statements/): Conditional statements practiced  
+[5-switch-case](5-switch-case/): Switch case practiced  
+[6-Loops](6-Loops/): Loops practiced  
+[7-Arrays](7-Arrays/): Arrays practiced  
+[8-Strings](8-Strings/): Strings practiced  
+[9-class_obj](9-class_obj/): Class and Object practiced  
+[10-Encapsulation](10-Encapsulation/): Encapsulation practiced  
+[11-Abstraction](11-Abstraction/): Abstraction practiced  
+[Collections practice](Collections%20practice/): Collections practice
