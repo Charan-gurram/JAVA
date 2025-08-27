@@ -37,6 +37,6 @@ public class TryCatch
         {
             System.out.println("finally block always executes");
         }
-        System.out.println("Line after catch block");
+        System.out.println("Line after catch block"); 
 }
 }
