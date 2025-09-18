@@ -64,7 +64,7 @@
         {
             fact*=i;
         }
-        return fact
+        return fact;
     }
 
     //6. reverse a digits
